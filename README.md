@@ -1,7 +1,6 @@
 ![final-agroww-ezgif com-crop](https://github.com/user-attachments/assets/6bc935a2-3d7a-4c26-bfe6-575172d48a38)
 ## 🌱 AGROW-Fertilizer-Predictor: Precision Fertilizer Prediction
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Model: Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-red.svg)](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 
