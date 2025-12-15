@@ -99,8 +99,3 @@ We welcome contributions! Please feel free to open issues or submit pull request
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-***
